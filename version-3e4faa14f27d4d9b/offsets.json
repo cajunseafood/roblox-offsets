@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "dumper": "roblox-dumper 2.6",
+    "author": "Jonah (jonahw on Discord)",
+    "github": "https://github.com/nopjo/roblox-dumper",
+    "roblox_version": "version-3e4faa14f27d4d9b",
+    "total_offsets": 22
+  },
+  "offsets": {
+    "DataModel": {
+      "CreatorId": 408,
+      "GameId": 416,
+      "GameLoaded": 1656,
+      "JobId": 312,
+      "PlaceId": 424,
+      "ServerIP": 1632,
+      "Workspace": 376
+    },
+    "FakeDataModel": {
+      "Pointer": 129835200,
+      "RealDataModel": 472
+    },
+    "Instance": {
+      "ChildrenEnd": 8,
+      "ChildrenStart": 120,
+      "ClassDescriptor": 24,
+      "ClassName": 8,
+      "Name": 176,
+      "Parent": 112
+    },
+    "RenderView": {
+      "LightingValid": 368,
+      "SkyboxValid": 653
+    },
+    "VisualEngine": {
+      "Dimensions": 2736,
+      "FakeDataModel": 2704,
+      "Pointer": 137274296,
+      "RenderView": 3000,
+      "ViewMatrix": 336
+    }
+  }
+}
